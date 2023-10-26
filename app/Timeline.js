@@ -72,7 +72,7 @@ const Timeline = () => {
     sx={{
         margin:'45px',
         marginTop:'0px',
-        height:'90vh',
+        height:'100vh',
         width:'95%',
         borderRadius:'4vh',
         background:'#b4e4ed'
@@ -83,7 +83,7 @@ const Timeline = () => {
          display='flex' 
          alignItems='center'
          justifyContent='center'
-         p={3}
+         p={2}
           >
           <Box flexDirection='column' display='flex' alignItems='center' >
                 <span style={{fontSize:'20px', }}>Let your friends , family, and co-worker(anonymously ) rate your social skills. </span>
