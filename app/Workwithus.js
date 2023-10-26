@@ -220,7 +220,7 @@ const Workwithus = () => {
                 direction={"row"}
                 overflowY={"auto"}
                 flexDirection={"column"}
-                height={"auto"}
+                
                 sx={{ flexDirection: { md: "column" } }}
               >
                 {categories.map((category) => (

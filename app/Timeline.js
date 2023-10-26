@@ -72,7 +72,7 @@ const Timeline = () => {
     sx={{
         margin:'45px',
         marginTop:'0px',
-        height:'85vh',
+        height:'90vh',
         width:'95%',
         borderRadius:'4vh',
         background:'#b4e4ed'

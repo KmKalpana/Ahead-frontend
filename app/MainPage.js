@@ -59,7 +59,7 @@ const MainPage = () => {
         sx={{
           margin: "45px",
           marginTop: "80px",
-          height: "85vh",
+          height: "90vh",
           width: "95%",
           borderRadius: "4vh",
           background: "#c6abd6",
