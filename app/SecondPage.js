@@ -51,9 +51,6 @@ const SecondPage = () => {
 
 
 
-
-
-
     <Stack 
     flexDirection='column'
     display='column'
